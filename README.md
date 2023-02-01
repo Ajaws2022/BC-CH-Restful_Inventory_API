@@ -3,6 +3,7 @@ For this assignment we were tasked with finishing the routes on a restful api de
 
 ## Description 
 This application uses a MySQL database which is manipulated with CRUD operations using Sequelize. The Sequelize connection is established using the dotenv package. For the server side Express is used to create routes.
+[Demo Video](https://drive.google.com/file/d/1hsMVq6-X3aV6pF0qm-jJXoMMQngG_qUg/view)
 
 
 ## Usage
